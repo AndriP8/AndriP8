@@ -1,0 +1,49 @@
+<svg width="450" height="155" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .monospace { font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Monaco, Consolas, monospace; }
+    .font-bold { font-weight: 700; }
+    .font-normal { font-weight: 400; }
+    .text-title { font-size: 24px; }
+    .text-label { font-size: 13px; }
+    .text-main { font-size: 13px; }
+    .text-percentage { font-size: 13px; }
+    
+    @media (prefers-color-scheme: dark) {
+      .text-title { fill: #c9d1d9; }
+      .text-label { fill: #8b949e; }
+      .text-main { fill: #c9d1d9; }
+      .text-percentage { fill: #8b949e; }
+      .progress-bg { fill: #21262d; }
+      .progress-bar { fill: #c9d1d9; }
+    }
+    @media (prefers-color-scheme: light) {
+      .text-title { fill: #24292f; }
+      .text-label { fill: #57606a; }
+      .text-main { fill: #24292f; }
+      .text-percentage { fill: #57606a; }
+      .progress-bg { fill: #afb8c1; fill-opacity: 0.2; }
+      .progress-bar { fill: #24292f; }
+    }
+  </style>
+  
+  <!-- Column 1: Commits -->
+  <text x="20" y="45" class="monospace font-bold text-title">1,448</text>
+  <text x="20" y="65" class="monospace font-normal text-label">commits</text>
+  
+  <!-- Column 2: PRs -->
+  <text x="140" y="45" class="monospace font-bold text-title">70</text>
+  <text x="140" y="65" class="monospace font-normal text-label">prs</text>
+  
+  <!-- Column 3: Stars -->
+  <text x="250" y="45" class="monospace font-bold text-title">35</text>
+  <text x="250" y="65" class="monospace font-normal text-label">stars</text>
+  
+  <!-- Column 4: Issues -->
+  <text x="350" y="45" class="monospace font-bold text-title">3</text>
+  <text x="350" y="65" class="monospace font-normal text-label">issues</text>
+  
+  <!-- WakaTime Title -->
+  <text x="20" y="110" class="monospace font-bold text-main">Coding time stats currently unavailable</text>
+  
+  
+</svg>
