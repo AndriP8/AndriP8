@@ -2,7 +2,7 @@
 
 **Product Engineer**
 
-I'm a developer based in Indonesia who builds production applications with focus on performance, real-time systems, and pragmatic code that delivers real outcomes.
+Building fast, real-time systems with simple, pragmatic code. Based in Indonesia 🇮🇩
 
 
 ## 📊 GitHub Stats
