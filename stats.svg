@@ -27,7 +27,7 @@
   </style>
   
   <!-- Column 1: Commits -->
-  <text x="20" y="45" class="monospace font-bold text-title">1,453</text>
+  <text x="20" y="45" class="monospace font-bold text-title">1,455</text>
   <text x="20" y="65" class="monospace font-normal text-label">commits</text>
   
   <!-- Column 2: PRs -->
@@ -43,20 +43,20 @@
   <text x="350" y="65" class="monospace font-normal text-label">issues</text>
   
   <!-- WakaTime Title -->
-  <text x="20" y="110" class="monospace font-bold text-main">All time · 119 hrs 15 mins</text>
+  <text x="20" y="110" class="monospace font-bold text-main">All time · 122 hrs 41 mins</text>
   
   
     <!-- TypeScript -->
     <text x="20" y="147" class="monospace font-normal text-main">TypeScript</text>
     <rect x="150" y="138" width="200" height="10" rx="5" ry="5" class="progress-bg" />
-    <rect x="150" y="138" width="148" height="10" rx="5" ry="5" class="progress-bar" />
-    <text x="365" y="147" class="monospace font-normal text-percentage">73.8%</text>
+    <rect x="150" y="138" width="147" height="10" rx="5" ry="5" class="progress-bar" />
+    <text x="365" y="147" class="monospace font-normal text-percentage">73.3%</text>
     
     <!-- Markdown -->
     <text x="20" y="173" class="monospace font-normal text-main">Markdown</text>
     <rect x="150" y="164" width="200" height="10" rx="5" ry="5" class="progress-bg" />
     <rect x="150" y="164" width="21" height="10" rx="5" ry="5" class="progress-bar" />
-    <text x="365" y="173" class="monospace font-normal text-percentage">10.6%</text>
+    <text x="365" y="173" class="monospace font-normal text-percentage">10.3%</text>
     
     <!-- JSON -->
     <text x="20" y="199" class="monospace font-normal text-main">JSON</text>
@@ -68,30 +68,30 @@
     <text x="20" y="225" class="monospace font-normal text-main">Bash</text>
     <rect x="150" y="216" width="200" height="10" rx="5" ry="5" class="progress-bg" />
     <rect x="150" y="216" width="5" height="10" rx="5" ry="5" class="progress-bar" />
-    <text x="365" y="225" class="monospace font-normal text-percentage">2.7%</text>
+    <text x="365" y="225" class="monospace font-normal text-percentage">2.6%</text>
     
-    <!-- SQL -->
-    <text x="20" y="251" class="monospace font-normal text-main">SQL</text>
+    <!-- YAML -->
+    <text x="20" y="251" class="monospace font-normal text-main">YAML</text>
     <rect x="150" y="242" width="200" height="10" rx="5" ry="5" class="progress-bg" />
     <rect x="150" y="242" width="4" height="10" rx="5" ry="5" class="progress-bar" />
     <text x="365" y="251" class="monospace font-normal text-percentage">2.0%</text>
     
-    <!-- CSS -->
-    <text x="20" y="277" class="monospace font-normal text-main">CSS</text>
+    <!-- SQL -->
+    <text x="20" y="277" class="monospace font-normal text-main">SQL</text>
     <rect x="150" y="268" width="200" height="10" rx="5" ry="5" class="progress-bg" />
     <rect x="150" y="268" width="4" height="10" rx="5" ry="5" class="progress-bar" />
-    <text x="365" y="277" class="monospace font-normal text-percentage">1.8%</text>
+    <text x="365" y="277" class="monospace font-normal text-percentage">1.9%</text>
     
-    <!-- YAML -->
-    <text x="20" y="303" class="monospace font-normal text-main">YAML</text>
+    <!-- CSS -->
+    <text x="20" y="303" class="monospace font-normal text-main">CSS</text>
     <rect x="150" y="294" width="200" height="10" rx="5" ry="5" class="progress-bg" />
-    <rect x="150" y="294" width="3" height="10" rx="5" ry="5" class="progress-bar" />
-    <text x="365" y="303" class="monospace font-normal text-percentage">1.4%</text>
+    <rect x="150" y="294" width="4" height="10" rx="5" ry="5" class="progress-bar" />
+    <text x="365" y="303" class="monospace font-normal text-percentage">1.8%</text>
     
     <!-- Other -->
     <text x="20" y="329" class="monospace font-normal text-main">Other</text>
     <rect x="150" y="320" width="200" height="10" rx="5" ry="5" class="progress-bg" />
-    <rect x="150" y="320" width="2" height="10" rx="5" ry="5" class="progress-bar" />
-    <text x="365" y="329" class="monospace font-normal text-percentage">1.2%</text>
+    <rect x="150" y="320" width="3" height="10" rx="5" ry="5" class="progress-bar" />
+    <text x="365" y="329" class="monospace font-normal text-percentage">1.6%</text>
     
 </svg>
