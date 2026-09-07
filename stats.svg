@@ -27,7 +27,7 @@
   </style>
   
   <!-- Column 1: Commits -->
-  <text x="20" y="45" class="monospace font-bold text-title">1,465</text>
+  <text x="20" y="45" class="monospace font-bold text-title">1,468</text>
   <text x="20" y="65" class="monospace font-normal text-label">commits</text>
   
   <!-- Column 2: PRs -->
@@ -49,14 +49,14 @@
     <!-- TypeScript -->
     <text x="20" y="147" class="monospace font-normal text-main">TypeScript</text>
     <rect x="150" y="138" width="200" height="10" rx="5" ry="5" class="progress-bg" />
-    <rect x="150" y="138" width="141" height="10" rx="5" ry="5" class="progress-bar" />
-    <text x="365" y="147" class="monospace font-normal text-percentage">70.3%</text>
+    <rect x="150" y="138" width="140" height="10" rx="5" ry="5" class="progress-bar" />
+    <text x="365" y="147" class="monospace font-normal text-percentage">70.0%</text>
     
     <!-- Markdown -->
     <text x="20" y="173" class="monospace font-normal text-main">Markdown</text>
     <rect x="150" y="164" width="200" height="10" rx="5" ry="5" class="progress-bg" />
     <rect x="150" y="164" width="20" height="10" rx="5" ry="5" class="progress-bar" />
-    <text x="365" y="173" class="monospace font-normal text-percentage">10.0%</text>
+    <text x="365" y="173" class="monospace font-normal text-percentage">9.9%</text>
     
     <!-- JSON -->
     <text x="20" y="199" class="monospace font-normal text-main">JSON</text>
@@ -67,8 +67,8 @@
     <!-- Other -->
     <text x="20" y="225" class="monospace font-normal text-main">Other</text>
     <rect x="150" y="216" width="200" height="10" rx="5" ry="5" class="progress-bg" />
-    <rect x="150" y="216" width="7" height="10" rx="5" ry="5" class="progress-bar" />
-    <text x="365" y="225" class="monospace font-normal text-percentage">3.7%</text>
+    <rect x="150" y="216" width="8" height="10" rx="5" ry="5" class="progress-bar" />
+    <text x="365" y="225" class="monospace font-normal text-percentage">4.1%</text>
     
     <!-- Bash -->
     <text x="20" y="251" class="monospace font-normal text-main">Bash</text>
