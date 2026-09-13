@@ -50,7 +50,7 @@
     <text x="20" y="147" class="monospace font-normal text-main">TypeScript</text>
     <rect x="150" y="138" width="200" height="10" rx="5" ry="5" class="progress-bg" />
     <rect x="150" y="138" width="139" height="10" rx="5" ry="5" class="progress-bar" />
-    <text x="365" y="147" class="monospace font-normal text-percentage">69.6%</text>
+    <text x="365" y="147" class="monospace font-normal text-percentage">69.4%</text>
     
     <!-- Markdown -->
     <text x="20" y="173" class="monospace font-normal text-main">Markdown</text>
@@ -62,7 +62,7 @@
     <text x="20" y="199" class="monospace font-normal text-main">Other</text>
     <rect x="150" y="190" width="200" height="10" rx="5" ry="5" class="progress-bg" />
     <rect x="150" y="190" width="11" height="10" rx="5" ry="5" class="progress-bar" />
-    <text x="365" y="199" class="monospace font-normal text-percentage">5.3%</text>
+    <text x="365" y="199" class="monospace font-normal text-percentage">5.5%</text>
     
     <!-- JSON -->
     <text x="20" y="225" class="monospace font-normal text-main">JSON</text>
