@@ -27,7 +27,7 @@
   </style>
   
   <!-- Column 1: Commits -->
-  <text x="20" y="45" class="monospace font-bold text-title">1,476</text>
+  <text x="20" y="45" class="monospace font-bold text-title">1,477</text>
   <text x="20" y="65" class="monospace font-normal text-label">commits</text>
   
   <!-- Column 2: PRs -->
@@ -43,7 +43,7 @@
   <text x="350" y="65" class="monospace font-normal text-label">issues</text>
   
   <!-- WakaTime Title -->
-  <text x="20" y="110" class="monospace font-bold text-main">All time · 134 hrs 31 mins</text>
+  <text x="20" y="110" class="monospace font-bold text-main">All time · 137 hrs 19 mins</text>
   
   
     <!-- TypeScript -->
@@ -55,8 +55,8 @@
     <!-- Markdown -->
     <text x="20" y="173" class="monospace font-normal text-main">Markdown</text>
     <rect x="150" y="164" width="200" height="10" rx="5" ry="5" class="progress-bg" />
-    <rect x="150" y="164" width="19" height="10" rx="5" ry="5" class="progress-bar" />
-    <text x="365" y="173" class="monospace font-normal text-percentage">9.3%</text>
+    <rect x="150" y="164" width="18" height="10" rx="5" ry="5" class="progress-bar" />
+    <text x="365" y="173" class="monospace font-normal text-percentage">9.1%</text>
     
     <!-- Other -->
     <text x="20" y="199" class="monospace font-normal text-main">Other</text>
@@ -67,8 +67,8 @@
     <!-- JSON -->
     <text x="20" y="225" class="monospace font-normal text-main">JSON</text>
     <rect x="150" y="216" width="200" height="10" rx="5" ry="5" class="progress-bg" />
-    <rect x="150" y="216" width="8" height="10" rx="5" ry="5" class="progress-bar" />
-    <text x="365" y="225" class="monospace font-normal text-percentage">4.2%</text>
+    <rect x="150" y="216" width="9" height="10" rx="5" ry="5" class="progress-bar" />
+    <text x="365" y="225" class="monospace font-normal text-percentage">4.5%</text>
     
     <!-- Bash -->
     <text x="20" y="251" class="monospace font-normal text-main">Bash</text>
@@ -86,7 +86,7 @@
     <text x="20" y="303" class="monospace font-normal text-main">SQL</text>
     <rect x="150" y="294" width="200" height="10" rx="5" ry="5" class="progress-bg" />
     <rect x="150" y="294" width="3" height="10" rx="5" ry="5" class="progress-bar" />
-    <text x="365" y="303" class="monospace font-normal text-percentage">1.7%</text>
+    <text x="365" y="303" class="monospace font-normal text-percentage">1.6%</text>
     
     <!-- CSS -->
     <text x="20" y="329" class="monospace font-normal text-main">CSS</text>
