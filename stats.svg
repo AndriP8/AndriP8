@@ -27,7 +27,7 @@
   </style>
   
   <!-- Column 1: Commits -->
-  <text x="20" y="45" class="monospace font-bold text-title">1,481</text>
+  <text x="20" y="45" class="monospace font-bold text-title">1,482</text>
   <text x="20" y="65" class="monospace font-normal text-label">commits</text>
   
   <!-- Column 2: PRs -->
@@ -43,7 +43,7 @@
   <text x="350" y="65" class="monospace font-normal text-label">issues</text>
   
   <!-- WakaTime Title -->
-  <text x="20" y="110" class="monospace font-bold text-main">All time · 157 hrs 11 mins</text>
+  <text x="20" y="110" class="monospace font-bold text-main">All time · 157 hrs 16 mins</text>
   
   
     <!-- TypeScript -->
