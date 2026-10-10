@@ -43,14 +43,14 @@
   <text x="350" y="65" class="monospace font-normal text-label">issues</text>
   
   <!-- WakaTime Title -->
-  <text x="20" y="110" class="monospace font-bold text-main">All time · 172 hrs 8 mins</text>
+  <text x="20" y="110" class="monospace font-bold text-main">All time · 173 hrs 28 mins</text>
   
   
     <!-- TypeScript -->
     <text x="20" y="147" class="monospace font-normal text-main">TypeScript</text>
     <rect x="150" y="138" width="200" height="10" rx="5" ry="5" class="progress-bg" />
     <rect x="150" y="138" width="141" height="10" rx="5" ry="5" class="progress-bar" />
-    <text x="365" y="147" class="monospace font-normal text-percentage">70.7%</text>
+    <text x="365" y="147" class="monospace font-normal text-percentage">70.4%</text>
     
     <!-- Markdown -->
     <text x="20" y="173" class="monospace font-normal text-main">Markdown</text>
@@ -62,7 +62,7 @@
     <text x="20" y="199" class="monospace font-normal text-main">Other</text>
     <rect x="150" y="190" width="200" height="10" rx="5" ry="5" class="progress-bg" />
     <rect x="150" y="190" width="11" height="10" rx="5" ry="5" class="progress-bar" />
-    <text x="365" y="199" class="monospace font-normal text-percentage">5.6%</text>
+    <text x="365" y="199" class="monospace font-normal text-percentage">5.5%</text>
     
     <!-- JSON -->
     <text x="20" y="225" class="monospace font-normal text-main">JSON</text>
@@ -88,10 +88,10 @@
     <rect x="150" y="294" width="4" height="10" rx="5" ry="5" class="progress-bar" />
     <text x="365" y="303" class="monospace font-normal text-percentage">1.8%</text>
     
-    <!-- CSS -->
-    <text x="20" y="329" class="monospace font-normal text-main">CSS</text>
+    <!-- Python -->
+    <text x="20" y="329" class="monospace font-normal text-main">Python</text>
     <rect x="150" y="320" width="200" height="10" rx="5" ry="5" class="progress-bg" />
     <rect x="150" y="320" width="3" height="10" rx="5" ry="5" class="progress-bar" />
-    <text x="365" y="329" class="monospace font-normal text-percentage">1.3%</text>
+    <text x="365" y="329" class="monospace font-normal text-percentage">1.4%</text>
     
 </svg>
