@@ -27,7 +27,7 @@
   </style>
   
   <!-- Column 1: Commits -->
-  <text x="20" y="45" class="monospace font-bold text-title">1,484</text>
+  <text x="20" y="45" class="monospace font-bold text-title">1,488</text>
   <text x="20" y="65" class="monospace font-normal text-label">commits</text>
   
   <!-- Column 2: PRs -->
@@ -43,7 +43,7 @@
   <text x="350" y="65" class="monospace font-normal text-label">issues</text>
   
   <!-- WakaTime Title -->
-  <text x="20" y="110" class="monospace font-bold text-main">All time · 181 hrs 29 mins</text>
+  <text x="20" y="110" class="monospace font-bold text-main">All time · 183 hrs 26 mins</text>
   
   
     <!-- TypeScript -->
@@ -68,7 +68,7 @@
     <text x="20" y="225" class="monospace font-normal text-main">JSON</text>
     <rect x="150" y="216" width="200" height="10" rx="5" ry="5" class="progress-bg" />
     <rect x="150" y="216" width="8" height="10" rx="5" ry="5" class="progress-bar" />
-    <text x="365" y="225" class="monospace font-normal text-percentage">4.0%</text>
+    <text x="365" y="225" class="monospace font-normal text-percentage">4.1%</text>
     
     <!-- Bash -->
     <text x="20" y="251" class="monospace font-normal text-main">Bash</text>
@@ -80,13 +80,13 @@
     <text x="20" y="277" class="monospace font-normal text-main">YAML</text>
     <rect x="150" y="268" width="200" height="10" rx="5" ry="5" class="progress-bg" />
     <rect x="150" y="268" width="4" height="10" rx="5" ry="5" class="progress-bar" />
-    <text x="365" y="277" class="monospace font-normal text-percentage">1.8%</text>
+    <text x="365" y="277" class="monospace font-normal text-percentage">1.9%</text>
     
     <!-- SQL -->
     <text x="20" y="303" class="monospace font-normal text-main">SQL</text>
     <rect x="150" y="294" width="200" height="10" rx="5" ry="5" class="progress-bg" />
-    <rect x="150" y="294" width="3" height="10" rx="5" ry="5" class="progress-bar" />
-    <text x="365" y="303" class="monospace font-normal text-percentage">1.7%</text>
+    <rect x="150" y="294" width="4" height="10" rx="5" ry="5" class="progress-bar" />
+    <text x="365" y="303" class="monospace font-normal text-percentage">1.8%</text>
     
     <!-- Python -->
     <text x="20" y="329" class="monospace font-normal text-main">Python</text>
