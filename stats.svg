@@ -43,14 +43,14 @@
   <text x="350" y="65" class="monospace font-normal text-label">issues</text>
   
   <!-- WakaTime Title -->
-  <text x="20" y="110" class="monospace font-bold text-main">All time · 195 hrs 38 mins</text>
+  <text x="20" y="110" class="monospace font-bold text-main">All time · 197 hrs 44 mins</text>
   
   
     <!-- TypeScript -->
     <text x="20" y="147" class="monospace font-normal text-main">TypeScript</text>
     <rect x="150" y="138" width="200" height="10" rx="5" ry="5" class="progress-bg" />
     <rect x="150" y="138" width="143" height="10" rx="5" ry="5" class="progress-bar" />
-    <text x="365" y="147" class="monospace font-normal text-percentage">71.4%</text>
+    <text x="365" y="147" class="monospace font-normal text-percentage">71.6%</text>
     
     <!-- Markdown -->
     <text x="20" y="173" class="monospace font-normal text-main">Markdown</text>
